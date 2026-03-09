@@ -3,7 +3,7 @@ Built a Power BI bakery sales dashboard using a star schema model with orders + 
 
 # Bakery Sales Dashboard (Power BI)
 
-A beginner-friendly Power BI dashboard built with semi-realistic bakery sales data to demonstrate best practices in data modeling, DAX measures, and report design.
+A Power BI dashboard built with semi-realistic bakery sales data to demonstrate best practices in data modeling, DAX measures, and report design.
 
 ## Overview
 This project analyzes bakery sales performance across time, products, stores, and employees. The dataset is structured like real transactional systems using a **Sales Orders (header)** table and a **Sales Order Lines (line items)** table, then merged to form a clean **Sales fact table** for a proper **star schema** model.
